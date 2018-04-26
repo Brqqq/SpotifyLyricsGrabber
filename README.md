@@ -1,3 +1,6 @@
+
+# DOES NOT WORK ANYMORE. PROJECT IS NOT BEING MAINTAINED
+
 # Spotify Lyrics Grabber
 
 Spotify used to provide lyrics (through MusixMatch). One day they stopped doing that. As an alternative, this WinForms application will see the currently playing song on your Spotify (non-web) client. It will try to find the right lyrics for that and show that on the screen.
