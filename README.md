@@ -1,5 +1,5 @@
 
-# DOES NOT WORK ANYMORE. PROJECT IS NOT BEING MAINTAINED
+## PROJECT IS NOT BEING MAINTAINED. Still works as of April 2018 as long as the Spotify API & Newtonsoft.Json packages are updated
 
 # Spotify Lyrics Grabber
 
